@@ -1,3 +1,4 @@
+![logo](https://github.com/SHWETA2199/shweta21/blob/main/Blue%2C%20Green%2C%20and%20White%20Modern%20Tech%20Web%20Developer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shweta Damre</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
